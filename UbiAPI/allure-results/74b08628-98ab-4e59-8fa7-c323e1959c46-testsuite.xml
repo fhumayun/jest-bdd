@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1593243814510' stop='1593243814766'>
+    <name>Authorization Verification</name>
+    <title>Authorization Verification</title>
+    <test-cases>
+        <test-case start='1593243814510' status='passed' stop='1593243814766'>
+            <name>As an authorized API user I could like to validate my API token so that I can use Ubicquia API Suite</name>
+            <title>As an authorized API user I could like to validate my API token so that I can use Ubicquia API Suite</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

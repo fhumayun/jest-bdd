@@ -31,10 +31,10 @@ unit(
             }).catch(err => {
                 if (err.response) {
                     // client received an error response (5xx, 4xx)
-                    console.error(err.response.data.errors);
+                    //console.error(err.response.data.errors);
                 } else if (err.request) {
                     // client never received a response, or request never left
-                    console.error(err.request.data.errors);
+                    //console.error(err.request.data.errors);
                 } else {
                     // anything else
                 }
