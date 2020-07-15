@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8eddcb5e6cc225b0",
+  "name" : "Then: the GET request will allow the API to confirm authorization",
+  "time" : {
+    "start" : 1593991056613,
+    "stop" : 1593991056915,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

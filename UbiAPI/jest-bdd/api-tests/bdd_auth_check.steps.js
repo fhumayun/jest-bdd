@@ -2,7 +2,7 @@
 const { unit, given, when, then } = require('jest-bdd')
 
 const axios = require('axios')
-
+// const allure = require('allure-commandline')
 let stage_key
 let stage_api_server
 
@@ -49,3 +49,8 @@ unit(
         )
     )
 )
+// returns ChildProcess instance
+/* var generation = allure(['generate', 'allure-results'])
+generation.on('exit', function (exitCode) {
+    console.log('Generation is finished with code:', exitCode)
+}) */

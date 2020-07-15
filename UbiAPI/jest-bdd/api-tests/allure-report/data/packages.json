@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Given: a user provides a valid token When: the server is sent this token",
+    "children" : [ {
+      "name" : "Then: the GET request will allow the API to confirm authorization",
+      "uid" : "8eddcb5e6cc225b0",
+      "parentUid" : "f00e49ee8ebba3e3c1a0a87249b91aac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593991056613,
+        "stop" : 1593991056915,
+        "duration" : 302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f00e49ee8ebba3e3c1a0a87249b91aac"
+  } ],
+  "name" : "packages"
+}
